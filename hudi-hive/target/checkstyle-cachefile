@@ -1,0 +1,11 @@
+#Sun Feb 23 21:59:18 CET 2020
+/root/hudi-building/incubator-hudi/hudi-hive/src/test/resources/log4j-surefire.properties=1582489650000
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/PartitionValueExtractor.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/MultiPartKeysValueExtractor.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncTool.java=1582489650000
+module-resource*?\:/root/hudi-building/incubator-hudi/hudi-hive/target/checkstyle-suppressions.xml=8D8F5336F98054DC2B1EAC538CCEE719E7161D3C
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncConfig.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/SlashEncodedDayPartitionValueExtractor.java=1582489650000
+configuration*?=AA27586C314F8D7C43F89F0F3099E992A214B684
+/root/hudi-building/incubator-hudi/hudi-hive/src/test/resources/log4j-surefire-quiet.properties=1582489650000
+/root/hudi-building/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/NonPartitionedExtractor.java=1582489650000

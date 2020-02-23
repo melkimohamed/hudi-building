@@ -1,0 +1,13 @@
+#Sun Feb 23 21:59:46 CET 2020
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/payload/AWSDmsAvroPayload.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/ComplexKeyGenerator.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/KeyGenerator.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/test/resources/log4j-surefire.properties=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/test/resources/log4j-surefire-quiet.properties=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/NonpartitionedKeyGenerator.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/test/java/DataSourceTestUtils.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/SimpleKeyGenerator.java=1582489650000
+/root/hudi-building/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/HoodieDataSourceHelpers.java=1582489650000
+module-resource*?\:/root/hudi-building/incubator-hudi/hudi-spark/target/checkstyle-suppressions.xml=8D8F5336F98054DC2B1EAC538CCEE719E7161D3C
+/root/hudi-building/incubator-hudi/hudi-spark/src/test/java/HoodieJavaStreamingApp.java=1582489650000
+configuration*?=622488B3630F418E20A1889EF1E8B8BC8304F822
